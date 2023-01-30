@@ -1,7 +1,5 @@
 # Reconsider Multi-objective Black Box Bayesian Optimization Algorithms
 
-This is the code source for the Bayes final project.
-
 This project briefly summarized some classical and cutting-edge
 Multi-objective Black-box Bayesian optimization methods.
 Then discussed the performance of MESMO, qNEHVI, qE-
